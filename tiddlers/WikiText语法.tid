@@ -1,0 +1,27 @@
+created: 20250924102912009
+modified: 20250924123921690
+tags: wiki WikiText 语法 基础知识 TiddlyWiki教程
+title: WikiText语法
+
+Http链接：[[百度一下|http://www.baidu.com]]
+
+笔记链接：[[Index]]
+
+图片：[img[(实际图片链接)]]
+
+!标题1
+!!标题2
+!!!标题，在md里为###
+<<<引用文本，在md里为>
+<<<
+>引用文本，md语法适用于wikiText语法
+#数字列表（在md里为1.）
+#数字列表
+#数字列表
+*列表（在md里为-）
+*列表
+```java
+publid static void main(String[] args) {
+	System.out.println("Hellow World!");
+}
+```
