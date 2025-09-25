@@ -1,0 +1,8 @@
+created: 20250924130527139
+modified: 20250924130650029
+tags: 基础知识 TiddlyWiki教程 微件
+title: 微件
+
+微件（Widget，也译为小工具）是页面渲染的基本组成部分，页面上的列表、标题、链接就是由列表微件、标题微件、链接微件组成的，详见[[官方介绍-小工具|http://tw5-zh-hans.tiddlyspot.com/#Widgets]]。
+
+WikeText语法依靠TiddlyWiki核心部分基于编译原理转换为微件进行展示

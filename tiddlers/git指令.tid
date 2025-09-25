@@ -1,0 +1,8 @@
+created: 20250925060957145
+modified: 20250925061702000
+tags: 基础知识 工作技能 git
+title: git指令
+
+!!!删除Git远端分支
+>git push <远程名称> -d <分支名称>
+

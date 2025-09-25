@@ -1,0 +1,14 @@
+created: 20250924130723364
+modified: 20250924131218612
+tags: 基础知识 TiddlyWiki教程 插件
+title: 记忆相关的插件
+
+!! 钓鱼
+
+我们知道太微里的一条笔记叫做[[条目]]，因为Tiddly指一条小鱼，那么[[钓鱼插件]]就是把太微看做一个鱼塘，使用钓竿我们可以将养肥了的鱼钓出来放进脑海里，没养肥的放回去继续养。
+
+详见[[钓鱼手册（墨屉）|https://oflg.github.io/Tidme/manual/zh-Hans]]。
+
+!! Anki同步插件
+
+[[TiddlyRemember|https://sobjornstad.github.io/TiddlyRemember/]] 可以将你散落在各个条目里的 QA 搜集同步到 Anki 里，方便跨平台复习。

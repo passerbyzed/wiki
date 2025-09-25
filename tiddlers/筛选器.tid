@@ -1,0 +1,22 @@
+created: 20250924123924411
+creator: yifuzhou
+modified: 20250925090156703
+modifier: yifuzhou
+tags: 基础知识 TiddlyWiki教程 筛选器
+title: 筛选器
+
+!!筛选器
+筛选器长得类似链接`[[ ]]`
+
+<<<
+筛选tag `<$list filter="[tag[基础知识]sort[title]]"/>`
+
+<$list filter="[tag[基础知识]sort[title]]"/>
+
+筛选名称开头为[微]的所有条目，`[prefix[筛]]`
+
+<<list-links "[prefix[筛]]">>
+
+<<<
+
+''TiddlyWiki的筛选器十分强大，值得花费时间学习''
